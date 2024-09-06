@@ -5,6 +5,13 @@ body {
     background-color: #bed694d0;
 }
 
+.header {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #bed694d0;
+}
+
 .headerLogo {
     margin-left: 5%;
 
@@ -12,7 +19,7 @@ body {
 
 .Centrado {
     background-color: rgb(241, 214, 62);
-    color: white;
+    color: rgb(204, 218, 21);
     text-align: center;
     padding: 1em;
 }
